@@ -1,0 +1,15 @@
+==START==
+POTATO = 1
+COW = 1
+DOG = 1
+TOMATO = 1
+SCORE = 14
+==END==
+==START==
+POTATO = 1
+SHEEP = 1
+COW = 1
+DOG = 2
+TOMATO = 1
+SCORE = 24
+==END==
